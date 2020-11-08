@@ -1,5 +1,5 @@
 token=Nzc0ODgzMTQxNTk2NjEwNTYz.X6eQKQ.FkmFjKVqbKGrRr4NrmOkStgDs2w
 owner=763408450201714699
-prefix=1
+prefix=..
 stayinchannel=true
 songinstatus=true
